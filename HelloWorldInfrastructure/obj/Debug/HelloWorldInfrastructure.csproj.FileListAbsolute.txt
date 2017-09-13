@@ -1,0 +1,26 @@
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Data\TodaysData.txt
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.pdb
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.xml
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.dll
+C:\Users\Anusha Guda\Downloads\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.pdb
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.pdb
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\log4net.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\log4net.xml
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.dll
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.pdb
+C:\Users\Anusha Guda\Documents\Visual Studio 2017\Projects\MyHelloWorld\HelloWorldInfrastructure\bin\Debug\Data\Data.txt
