@@ -1,0 +1,6 @@
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.exe.config
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.exe
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\bin\Debug\MyHelloWorld.pdb
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.exe
+c:\users\anusha guda\documents\visual studio 2017\Projects\MyHelloWorld\MyHelloWorld\obj\Debug\MyHelloWorld.pdb
